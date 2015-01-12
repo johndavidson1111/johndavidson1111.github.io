@@ -5,4 +5,4 @@
 
 # Welcome to my first Github Page!
 
-**Quick Links:** [Link](http://vimeo.com/albertpalacci)
+**Quick Links:** [Albert Palacci](http://vimeo.com/albertpalacci)
